@@ -1,0 +1,5 @@
+fuzzywuzzy
+python-Levenshtein
+
+#pip install -r requirements.txt
+#run this command in terminal to install the required modules for this project
